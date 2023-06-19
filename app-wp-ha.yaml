@@ -128,7 +128,6 @@ metadata:
   labels:
     app: wp-prd
   name: wp-prd
-  namespace: default
 spec:
   host: wordpress-prd.apps.ocp-emea-clu01.coe.net
   port:
