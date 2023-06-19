@@ -1,0 +1,4 @@
+resources:
+  - pvc-wp-app-db.yaml
+  - app-wp-ha.yaml
+  
